@@ -1,0 +1,5 @@
+C:\Users\htphuc\Documents\GitHub\Prettifying-JSON-NET\Prettifying-JSON-NET\bin\Debug\Prettifying-JSON-NET.exe.config
+C:\Users\htphuc\Documents\GitHub\Prettifying-JSON-NET\Prettifying-JSON-NET\bin\Debug\Prettifying-JSON-NET.exe
+C:\Users\htphuc\Documents\GitHub\Prettifying-JSON-NET\Prettifying-JSON-NET\bin\Debug\Prettifying-JSON-NET.pdb
+C:\Users\htphuc\Documents\GitHub\Prettifying-JSON-NET\Prettifying-JSON-NET\obj\Debug\Prettifying-JSON-NET.exe
+C:\Users\htphuc\Documents\GitHub\Prettifying-JSON-NET\Prettifying-JSON-NET\obj\Debug\Prettifying-JSON-NET.pdb
